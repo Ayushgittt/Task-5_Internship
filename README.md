@@ -50,5 +50,6 @@ The Service exposes the NGINX deployment to external clients by creating a NodeP
 
 ---
 ### 5. Accessing the Application
-![7](https://github.com/user-attachments/assets/08fad12f-73cb-4ea4-93f1-89a5887f5d55)
+![1](https://github.com/user-attachments/assets/e5d10bac-c8ed-43f1-baaf-fb6caa07f3ce)
+
 
